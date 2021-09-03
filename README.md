@@ -1,6 +1,6 @@
-# react-boilerplate
+# react-to-do-app
 
-Simple react starter with the following config:
+Simple react to-do app with the following config:
 
 - React, ReactDOM
 - Webpack 4
@@ -9,7 +9,15 @@ Simple react starter with the following config:
 - work with `.js` or `.jsx` files
 - main `application.scss` stylesheet is imported in `index.js` as a module to enjoy hot reloading
 
-## Scripts
+##Getting Started
+
+To initialize project, run:
+
+```bash
+yarn install
+```
+
+### Scripts
 
 To start the local Webpack Dev Server (usually on port `8080`):
 
